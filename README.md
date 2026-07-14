@@ -428,5 +428,3 @@ Each asset is assigned a unique QR Code for quick access to:
 
 This project was developed as part of a hackathon for educational and
 demonstration purposes.
-#   A s s e t F l o w - E R C  
- 
